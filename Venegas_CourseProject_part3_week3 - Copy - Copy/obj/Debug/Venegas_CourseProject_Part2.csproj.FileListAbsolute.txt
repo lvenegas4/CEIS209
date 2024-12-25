@@ -1,0 +1,30 @@
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_Part2\bin\Debug\Venegas_CourseProject_Part2.exe.config
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_Part2\bin\Debug\Venegas_CourseProject_Part2.exe
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_Part2\bin\Debug\Venegas_CourseProject_Part2.pdb
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_Part2\obj\Debug\Venegas_CourseProject_Part2.csproj.AssemblyReference.cache
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_Part2\obj\Debug\Venegas_CourseProject_Part2.Form1.resources
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_Part2\obj\Debug\Venegas_CourseProject_Part2.Properties.Resources.resources
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_Part2\obj\Debug\Venegas_CourseProject_Part2.csproj.GenerateResource.cache
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_Part2\obj\Debug\Venegas_CourseProject_Part2.csproj.CoreCompileInputs.cache
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_Part2\obj\Debug\Venegas_CourseProject_Part2.exe
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_Part2\obj\Debug\Venegas_CourseProject_Part2.pdb
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_part3_week3 - Copy\bin\Debug\Venegas_CourseProject_Part2.exe.config
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_part3_week3 - Copy\bin\Debug\Venegas_CourseProject_Part2.exe
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_part3_week3 - Copy\bin\Debug\Venegas_CourseProject_Part2.pdb
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_part3_week3 - Copy\obj\Debug\Venegas_CourseProject_Part2.csproj.AssemblyReference.cache
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_part3_week3 - Copy\obj\Debug\Venegas_CourseProject_Part2.Form1.resources
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_part3_week3 - Copy\obj\Debug\Venegas_CourseProject_Part2.Properties.Resources.resources
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_part3_week3 - Copy\obj\Debug\Venegas_CourseProject_Part2.csproj.GenerateResource.cache
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_part3_week3 - Copy\obj\Debug\Venegas_CourseProject_Part2.csproj.CoreCompileInputs.cache
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_part3_week3 - Copy\obj\Debug\Venegas_CourseProject_Part2.exe
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_part3_week3 - Copy\obj\Debug\Venegas_CourseProject_Part2.pdb
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_part3_week3 - Copy\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_part3_week3 - Copy\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_part3_week3 - Copy\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_part3_week3 - Copy\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_part3_week3 - Copy\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_part3_week3 - Copy\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_part3_week3 - Copy\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_part3_week3 - Copy\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_part3_week3 - Copy\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Ughon\OneDrive\Desktop\ceis209\Venegas_CourseProject_part3_week3 - Copy\obj\Debug\Venegas_.F3EFD15A.Up2Date
